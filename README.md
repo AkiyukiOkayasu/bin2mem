@@ -1,4 +1,4 @@
-# bin2hex (Rust version)
+# bin2mem
 
 Gowin FPGA上のブロックメモリ(SP/DP/SDPB/ROMなど)初期化用 `.hex` ファイルを生成するためのツールです。
 RISC-V (PicoRV32) のバイナリファイル (`.bin`) を、Gowin EDAが要求するASCII Hex形式に変換します。
